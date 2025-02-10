@@ -1,0 +1,12 @@
+langchain-community
+langchain-core
+langchain-ollama
+langchain-experimental
+chromadb
+sentence-transformers
+pydantic
+pypdf
+sqlalchemy
+warnings
+datetime
+logging
